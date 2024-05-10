@@ -1,0 +1,174 @@
+{
+    "courses": [
+        {
+            "name": "Start ML",
+            "type": "Курс",
+            "link": "https://disk.yandex.ru/d/PW_ejdjOsY0YFg",
+            "cost": "Платно"
+        },
+        {
+            "name": "Лекции ШАД по А/Б тестам",
+            "type": "Курс",
+            "link": "https://disk.yandex.ru/i/jJnM3IEVvfwrbg",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Deep learning in finance",
+            "type": "Курс",
+            "link": "https://ods.ai/tracks/dl_in_finance",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "NLP",
+            "type": "Курс",
+            "link": "https://github.com/yandexdataschool/nlp_course/tree/2020",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Открытый курс машинного обучения. Первичный анализ данных с Pandas",
+            "type": "Курс",
+            "link": "https://habr.com/ru/companies/ods/articles/322626/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "[Яндекс.Практикум] Специалист по Data Science Плюс",
+            "type": "Курс",
+            "link": "https://disk.yandex.ru/d/qHE7nbPNknuJrw",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Основы статистики и A/B тестирования",
+            "type": "Курс",
+            "link": "https://practicum.yandex.ru/profile/statistics-basic/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "RecSys course",
+            "type": "Курс",
+            "link": "https://github.com/anamarina/RecSys_course/tree/2022",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Анализ Данных Python & SQL. Пароль: 1234",
+            "type": "Курс",
+            "link": "https://disk.yandex.ru/d/NMZjyV-vtdmoxg",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Временные ряды",
+            "type": "Курс",
+            "link": "https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series",
+            "cost": "Бесплатно"
+        }
+    ],
+    "resource": [
+        {
+            "name": "ВШЭ ФКН",
+            "type": "Книги или онлайн учебники",
+            "link": "http://wiki.cs.hse.ru/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Яндекс handbook",
+            "type": "Книги или онлайн учебники",
+            "link": "https://education.yandex.ru/handbook/ml",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Книга «Введение в интервью по машинному обучению»",
+            "type": "Книги или онлайн учебники",
+            "link": "https://huyenchip.com/ml-interviews-book/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "StatQuest with Josh Starmer (Statistics, Machine Learning and Data Science)",
+            "type": "Книги или онлайн учебники",
+            "link": "https://www.youtube.com/@statquest",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Яндекс Практикум конспекты",
+            "type": "Книги или онлайн учебники",
+            "link": "https://disk.yandex.ru/d/kGKznzIzIJpZxA",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Hands-on ml with scikit-learn keras and tensorflow",
+            "type": "Книги или онлайн учебники",
+            "link": "https://disk.yandex.ru/i/_bZ_p22Ip7JKxA",
+            "cost": "Платно"
+        },
+        {
+            "name": "Прикладное машинное обучение с помощью Scikit Learn и TensorFlow",
+            "type": "Книги или онлайн учебники",
+            "link": "https://disk.yandex.ru/i/u3hMuFy3BUdD8w",
+            "cost": "Платно"
+        },
+        {
+            "name": "MTS Your first recsys",
+            "type": "Книги или онлайн учебники",
+            "link": "https://www.youtube.com/watch?v=M65RLMfEsaM&list=PLX6toIl17nZENhNNUTrwR3Pxb8nCSKZsV&index=2",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "asdsa",
+            "type": "Книги или онлайн учебники",
+            "link": "https://habr.com/ru/companies/ods/articles/750974/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "MLOps",
+            "type": "Книги или онлайн учебники",
+            "link": "https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#devops_versus_mlops",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Что такое MLOps?",
+            "type": "Книги или онлайн учебники",
+            "link": "https://selectel.ru/blog/what-is-mlops/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Awesome MLOps",
+            "type": "Книги или онлайн учебники",
+            "link": "https://github.com/visenger/awesome-mlops#wfl-management",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Анализ выбросов",
+            "type": "Книги или онлайн учебники",
+            "link": "https://disk.yandex.ru/i/FfFxeoCjvYmN4A",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Руководство по подготовке к Data Science интервью 2021 Ренат Алимбеков",
+            "type": "Книги или онлайн учебники",
+            "link": "https://disk.yandex.ru/i/-l82gQnZQbA1Qg",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Понимание джойнов сломано",
+            "type": "Книги или онлайн учебники",
+            "link": "https://habr.com/ru/articles/448072/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "CatBoost",
+            "type": "Книги или онлайн учебники",
+            "link": "https://catboost.ai/en/docs/",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Transformer, explained in detail",
+            "type": "Книги или онлайн учебники",
+            "link": "https://www.youtube.com/watch?v=iOrNbK2T92M",
+            "cost": "Бесплатно"
+        },
+        {
+            "name": "Лекции одного дата-шрушера",
+            "type": "Книги или онлайн учебники",
+            "link": "https://www.youtube.com/@ppilif_lectures",
+            "cost": "Бесплатно"
+        }
+    ]
+}

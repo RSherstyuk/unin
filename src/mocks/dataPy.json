@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "title": "Поколение Python",
+            "type": "Курс",
+            "link": "https://stepik.org/org/pygen",
+            "cost": "Бесплатно"
+        }
+    ],
+    "resources": [
+        {
+            "title": "Байт кода на языке Python Версия 2.02",
+            "type": "Книги или онлайн учебники",
+            "link": "https://verstkag.github.io/books/AByteofPythonRussian-2.02.pdf",
+            "cost": "Бесплатно"
+        },
+        {
+            "title": "Лекции Тимофея Хирьянова",
+            "type": "Книги или онлайн учебники",
+            "link": "https://disk.yandex.ru/d/PW_ejdjOsY0YFg",
+            "cost": "Бесплатно"
+        }
+    ]
+}

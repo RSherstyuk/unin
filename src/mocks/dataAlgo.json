@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "title": "Grokking the coding interview",
+            "type": "Курс",
+            "link": "https://disk.yandex.ru/d/5obWqfRe46pPFw",
+            "cost": "Бесплатно"
+        },
+        {
+            "title": "Grokking aloritms",
+            "type": "Курс",
+            "link": "https://www.klex.ru/1718",
+            "cost": "Бесплатно"
+        },
+        {
+            "title": "Интерактивный тренажер по SQL",
+            "type": "Курс",
+            "link": "https://stepik.org/course/63054/promo",
+            "cost": "Бесплатно"
+        },
+        {
+            "title": "Интерактивный тренажер по SQL Симулятор SQL с нуля",
+            "type": "Курс",
+            "link": "https://karpov.courses/simulator-sql",
+            "cost": "Бесплатно"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "resources":[
+      {
+        "name": "Основы статистики",
+        "type": "Курс",
+        "link": "https://stepik.org/course/76/promo#toc",
+        "cost": "Бесплатно",
+        "language": "Русский"
+      },
+      {
+        "name": "YouTube-канал '3Blue1Brown'",
+        "type": "Книги или онлайн учебники",
+        "link": "https://www.youtube.com/@3blue1brown",
+        "cost": "Бесплатно",
+        "language": "Английский"
+      },
+      {
+        "name": "Сборники задач по теорверу и статистике",
+        "type": "Книги или онлайн учебники",
+        "link": "https://vk.com/wall-49016050_619",
+        "cost": "Бесплатно",
+        "language": "Русский"
+      },
+      {
+        "name": "Временные ряды для прогноза криптовалют",
+        "type": "Курс",
+        "link": "https://stepik.org/course/177216/promo",
+        "cost": "Бесплатно",
+        "language": "Русский"
+      },
+      {
+        "name": "Метрики",
+        "type": "Книги или онлайн учебники",
+        "link": "https://disk.yandex.ru/i/IYxmAy9obKSm6g",
+        "cost": "Бесплатно",
+        "language": "Русский"
+      },
+      {
+        "name": "Статистика",
+        "type": "Книги или онлайн учебники",
+        "link": "https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FБАЗА%20ФАЙЛОВ%2FОбучающие%20Материалы%2Fстатистика.pdf&name=статистика.pdf&uid=606358026&nosw=1",
+        "cost": "Бесплатно",
+        "language": "Русский"
+      },
+      {
+        "name": "YouTube-канал “Прикладная статистика”",
+        "type": "Курс",
+        "link": "https://www.youtube.com/@user-bg8cd4fn7d",
+        "cost": "Бесплатно",
+        "language": "Русский"
+      },
+      {
+        "name": "[МФТИ] Математика для анализа данных",
+        "type": "Курс",
+        "link": "https://disk.yandex.ru/d/gOuR5XEo_iOxBQ",
+        "cost": "Платно",
+        "language": "Русский"
+      },
+      {
+        "name": "МФТИ математика для DS",
+        "type": "Курс",
+        "link": "https://mega.nz/folder/nA0jSCib#u-88LlzIanTWl8AKHsBiOw",
+        "cost": "Платно",
+        "language": "Русский"
+      }
+    ]
+  }
